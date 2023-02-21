@@ -147,7 +147,7 @@ $(document).ready(function()
     	if($('.timer').length)
     	{
     		// Uncomment line below and replace date
-	    	var target_date = new Date("Aug 1, 2023");
+	    	var target_date = new Date("Jul 5, 2023");
 
 	    	// comment lines below
 	    	// var date = new Date();

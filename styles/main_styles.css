@@ -60,6 +60,15 @@ ul
 {
 	list-style: none;
 	margin-bottom: 0px;
+	padding-left: 30px;
+}
+.list01 {
+	/* 实心圆 */
+	list-style-type: disc;
+	/* 空心圆 */
+	/* list-style-type: circle; */
+	/* 实心方块 */
+	/* list-style-type: square;  */
 }
 p
 {

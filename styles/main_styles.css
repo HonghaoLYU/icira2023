@@ -60,9 +60,9 @@ ul
 {
 	list-style: none;
 	margin-bottom: 0px;
-	padding-left: 30px;
 }
 .list01 {
+	padding-left: 30px;
 	/* 实心圆 */
 	list-style-type: disc;
 	/* 空心圆 */

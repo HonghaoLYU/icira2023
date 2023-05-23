@@ -1227,7 +1227,7 @@ section
 }
 .gallery_item
 {
-	width: calc((100% - 12px) / 4);
+	width: calc((100% - 12px) / 5);
 	max-width: 87px;
 	max-height: 87px;
 	margin-bottom: 4px;

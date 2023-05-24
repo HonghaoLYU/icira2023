@@ -1168,10 +1168,10 @@ section
 .speaker_info
 {
 	position: absolute;
-	left: 22px;
-	bottom: 22px;
+	left: 2px;
+	bottom: 2px;
 	width: 191px;
-	height: 67px;
+	height: 57px;
 	background: #7f66ff;
 	padding-left: 21px;
 	-webkit-transition: all 400ms ease;
